@@ -1,6 +1,6 @@
 class PostsController < ApplicationController
 
     def create
-        post = Post.new(post_params)
+        byebug
     end
 end
